@@ -1,0 +1,32 @@
+target/\n**/*.rs.bk\nCargo.lock\n\n# Diretórios do Cargo e compilação\n/target\n**/target\n\n# Arquivos gerados pelo Cargo\nCargo.lock\n\n# Configurações do editor\n.idea/\n.vscode/\n\n# Arquivos temporários do sistema\n*.swp\n*.swo\n*.DS_Store\n\n# Build artifacts\n/debug\n/release\n\n# Test e benchmark outputs\n/tests\n/benches\n\n# Cobertura de código\n/coverage/\n*.profraw
+target/
+**/*.rs.bk
+Cargo.lock
+
+# Diretórios do Cargo e compilação
+/target
+**/target
+
+# Arquivos gerados pelo Cargo
+Cargo.lock
+
+# Configurações do editor
+.idea/
+.vscode/
+
+# Arquivos temporários do sistema
+*.swp
+*.swo
+*.DS_Store
+
+# Build artifacts
+/debug
+/release
+
+# Test e benchmark outputs
+/tests
+/benches
+
+# Cobertura de código
+/coverage/
+*.profraw
